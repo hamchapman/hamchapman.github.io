@@ -1,3 +1,8 @@
+# Jekyll Powered Blog
+
+I created a blog that's powered by Jekyll. There's not really much to see here because I set it up more to have a play with it and see how it worked rather than to actually blog using it. My actual blog can be found [here](http://hamiltonchapman.com).
+
+
 # Jekyll-Bootstrap
 
 The quickest way to start and publish your Jekyll powered blog. 100% compatible with GitHub pages
